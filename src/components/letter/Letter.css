@@ -1,0 +1,6 @@
+.letter {
+  cursor: pointer;
+}
+.letter.active {
+  color: #5a5a5a;
+}
